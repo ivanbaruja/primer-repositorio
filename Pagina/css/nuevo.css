@@ -1,0 +1,55 @@
+/**
+*{
+    margin: 0%;
+    padding: 0%;
+}
+*/
+
+header{
+    background-color: 
+    bisque;
+}
+/** estilos para las listas
+ul{
+    list-style: none ;
+    list-style: url();
+}
+*/
+
+p.texto{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    font-style: oblique;
+    text-align: center;
+}
+p.texto_2{
+    font-family: sans-serif;
+    line-height: 2;
+    letter-spacing: 0px;
+    text-decoration: underline;
+}
+h1.fondo{
+    height: 600px;
+
+;
+    background-image: url(/Pagina/Multimedia/imagen-dw.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+html{
+    font-size: 62.5%; /* 1rem=10px */
+}
+section{
+    font-size: 1em;
+}
+section p{
+    background-color: crimson;
+    font-size: 3rem;
+}
+
+h2{
+    font-family: 'Lobster', cursive;
+}

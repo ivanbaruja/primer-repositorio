@@ -1,0 +1,30 @@
+
+.linear-gradient {
+    width: 500px;
+    height: 250px;
+    border: 2px solid #000;
+    background-image: linear-gradient(to top, red, yellow);
+}
+
+
+.radial-gradient{
+    width: 500px;
+    height: 250px;
+    border: 2px solid black;
+    background-image: radial-gradient(blueviolet 20%, orange 50%, green 10%);
+}
+
+
+div{
+    width: 200px;
+    height:200px;
+    background: blueviolet;
+}
+div.translate{
+    transform: translate(100px, 100px);
+}
+
+div.rotate{
+    background: blue;
+    transform: rotatez(50deg);
+}
